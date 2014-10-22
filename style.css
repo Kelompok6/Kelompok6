@@ -1,0 +1,27 @@
+body {
+	background-image: url('img/megamendung_blue.jpg');
+	color: black;
+	font-size: 90%;
+	font-family: Georgia, 'Lucida Sans Unicode';
+	line-lenght: 1.5;
+	text-align: left;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:link, a:visited {
+	color: black;
+}
+
+a:hover, a:active {
+	background-color: #CF5C3F;
+	color: #FFF;
+}
+
+.body{
+	margin: 0 auto;
+	width: 80%;
+	clear: both;
+}
