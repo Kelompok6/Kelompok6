@@ -116,3 +116,17 @@ li:hover ul.subMenu {
 ul.subMenu li{
 	display : block;
 }
+
+.mainContent {
+	line-height: 25px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	margin: 0 auto;
+}
+
+.content{
+	width: 69%;
+	float: right;
+}
+
