@@ -25,3 +25,32 @@ a:hover, a:active {
 	width: 80%;
 	clear: both;
 }
+
+.mainHeader h3{
+	background-color: #013600;
+	color: white;
+	height: 30px;
+	line-height: 25px;
+	padding: 10px 25px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	margin: 0 auto;
+}
+
+.mainHeader img {
+	width: 100%;
+	height: auto;
+}
+
+.mainHeader h4 marquee{
+	background-color: #c5ffab;
+	color: #2e560d;
+	height: 30px;
+	line-height: 30px;
+	padding: 5px 15px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	margin: 0 auto;
+}
