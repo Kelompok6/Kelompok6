@@ -130,3 +130,51 @@ ul.subMenu li{
 	float: right;
 }
 
+.topcontent{
+	background-color: white;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	padding: 3% 5%;
+	margin-top: 2px;
+}
+
+.post-info{
+	font-style: italic;
+	color: black;
+	font-size: 90%;
+	text-shadow: 2px;
+}
+
+
+
+.top-sidebar{
+	width: 22%;
+	float: left;
+	background-color: white;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	margin: 0 3% 2% 0;
+	padding: 2% 3%;
+}
+
+.bottom-sidebar {
+	width: 22%;
+	float: left;
+	background-color: white;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	margin: 0 3% 2% 0;
+	padding: 2% 3%;
+}
+
+.form{
+	line-height: 5px;
+}
+
+
+
+
+
